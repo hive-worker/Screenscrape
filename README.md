@@ -10,6 +10,9 @@ java target.classes.org.screenscrape.ConsoleApplication
 Tests will automatically be run.
 
 Future Enhancements:
+
 BDD Tests in Spock will assist maintenance / enhacements of the project.
+
 Make the individual product page fetches ocurr in parallel
+
 handle returning json exceptions better
